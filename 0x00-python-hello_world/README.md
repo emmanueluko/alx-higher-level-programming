@@ -1,1 +1,1 @@
-The Second README. file for documentation of individual task handled in each project
+This repo contains codes for 0x00-python-hello_world task
